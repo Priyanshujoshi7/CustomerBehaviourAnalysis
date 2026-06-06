@@ -1,7 +1,9 @@
 # CustomerBehaviourAnalysis
 This project explores customer shopping behaviour using Python, SQL, Excel, PowerBI
 
-<img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/7a9849d9-dafc-40cf-896c-adfef1809509" />
+
+<img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/d883a9e1-d31d-4350-a032-7a4cee6a4784" />
+
 
 
 ---
